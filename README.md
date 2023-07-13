@@ -21,11 +21,11 @@
 
 ![configure_project](assets/images/configure_project.png)
 
-6. 빌드와 배포가 성공하면 `Visit` 버튼을 클릭해주세요.
+8. 빌드와 배포가 성공하면 `Visit` 버튼을 클릭해주세요.
 
 ![deploy_success](assets/images/deploy_success.png)
 
-7. Near 웹 사이트가 나오는 것을 확인해주세요.
+9. Near 웹 사이트가 나오는 것을 확인해주세요.
 
 ![near_gateway_home_page](assets/images/near_gateway_home_page.png)
 
